@@ -1,2 +1,2 @@
 # Personalized-Real-Estate-Agent_Home-Match
-This project build an Agent for estate recommandation. I use OpenAI API to generate the original estate infomation and then match the right estate for the user preference by vector dataBases. Besides, i use LLM again to custome a better desciption, highlight estate's features that the user requests. Via LangChain framework, i simplify the code.
+This project builds an Agent for real estate recommandation. I use the OpenAI API to generate the initial estate listings and then match the right estate to user preferences by vector dataBases. Besides, i also leverage an LLM to customize a more refined desciption, highlighting estate's features that the users care about most. Via LangChain framework, i simplify the implementation.
